@@ -19,10 +19,10 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: {
-    default: "Sunayana Commercial Fin-Invest | RBI Registered NBFC",
-    template: "%s | Sunayana Commercial Fin-Invest",
+    default: "Vindus Holdings  Fin-Invest | RBI Registered NBFC",
+    template: "%s | Vindus Holdings  Fin-Invest",
   },
-  description: `Sunayana Commercial Fin-Invest is an RBI-registered NBFC lending through its digital lending partners, ${lspNames}.`,
+  description: `Vindus Holdings  Fin-Invest is an RBI-registered NBFC lending through its digital lending partners, ${lspNames}.`,
 };
 
 export default function RootLayout({

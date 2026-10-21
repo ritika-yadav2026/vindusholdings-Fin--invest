@@ -1,6 +1,6 @@
 export const site = {
-  brandName: "Sunayana Commercial Fin-Invest",
-  legalName: "Sunayana Commercial FIN-INVEST PRIVATE LIMITED",
+  brandName: "Vindus Holdings  Fin-Invest",
+  legalName: "Vindus Holdings  FIN-INVEST PRIVATE LIMITED",
   registeredOffice:
     "10th Floor, Poddar Point, Block-A, 113, Park Street, Kolkata – 700016",
   gstin: "19AABCV8178N2ZE",
