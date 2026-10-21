@@ -7,7 +7,7 @@ export const site = {
   rbiRegistrationNumber: "B-05.05626 dated 17 Oct 2003",
   rbiRegistration:
     "RBI Registration No. B-05.05626 dated 17 Oct 2003, issued under Section 45-IA of the RBI Act, 1934",
-  grievanceEmail: "grievance@bmwfininvest.com",
+  grievanceEmail: "grievance@vindusholdingsfininvest.com",
   supportEmail: "support@vindusholdingsfininvest.com",
   supportPhone: "+91 9958940148",
   rbiCmsUrl: "https://cms.rbi.org.in",
@@ -15,7 +15,7 @@ export const site = {
   gro: {
     name: "Sumit Rajan",
     designation: "Grievance Redressal Officer",
-    email: "grievance@bmwfininvest.com",
+    email: "grievance@vindusholdingsfininvest.com",
     phone: "7665466546",
   },
   lsps: [
