@@ -20,15 +20,15 @@ export function Header() {
           onClick={() => setMenuOpen(false)}
         >
           <Image
-            src="/bmw-mark.png"
-            alt="BMW Fin-Invest"
+            src="/VINDUS-Holdings-Logo.png"
+            alt="Sunayana Commercial Fin-Invest"
             width={87}
             height={40}
             className="h-11 w-auto shrink-0"
             priority
           />
           <span className="truncate font-display text-base font-bold tracking-tight text-navy">
-            BMW Fin-Invest
+            Sunayana Commercial Fin-Invest
           </span>
         </Link>
 
