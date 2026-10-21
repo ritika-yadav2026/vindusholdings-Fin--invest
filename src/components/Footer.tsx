@@ -11,7 +11,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-3">
               <Image
-                src="/INDUS-Holdings-Logo.png"
+                src="/VINDUS-Holdings-Logo.png"
                 alt="Vindus Holdings  Fin-Invest"
                 width={87}
                 height={40}
