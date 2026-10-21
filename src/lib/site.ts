@@ -3,7 +3,7 @@ export const site = {
   legalName: "Sunayana Commercial FIN-INVEST PRIVATE LIMITED",
   registeredOffice:
     "10th Floor, Poddar Point, Block-A, 113, Park Street, Kolkata – 700016",
-  gstin: "10AADCS5140D1Z3",
+  gstin: "19AABCV8178N2ZE",
   rbiRegistrationNumber: "B-05.05626 dated 17 Oct 2003",
   rbiRegistration:
     "RBI Registration No. B-05.05626 dated 17 Oct 2003, issued under Section 45-IA of the RBI Act, 1934",
