@@ -29,6 +29,6 @@ export const faqs = [
   {
     question: "How can I contact Vindus Holdings  Fin-Invest for assistance?",
     answer:
-      "For general inquiries, email support@bmwfininvest.com. For complaints, email grievance@bmwfininvest.com or visit our Grievance Redressal page for the full escalation process.",
+      "For general inquiries, email support@vindusholdingsfininvest.com. For complaints, email grievance@bmwfininvest.com or visit our Grievance Redressal page for the full escalation process.",
   },
 ] as const;
