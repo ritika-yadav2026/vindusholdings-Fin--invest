@@ -22,19 +22,21 @@ export default function ContactPage() {
       <section className="bg-background">
         <Container className="grid gap-10 py-16 sm:py-20 lg:grid-cols-2">
           <div className="space-y-5">
-            <div className="flex items-start gap-4 rounded-2xl border border-hairline bg-surface p-7">
-              <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-teal-dim text-teal">
-                <MapPinIcon className="h-5 w-5" />
-              </span>
-              <div>
-                <h2 className="font-display text-base font-bold text-navy">
-                  Registered Office
-                </h2>
-                <p className="mt-2 text-sm leading-relaxed text-grey">
-                  {site.registeredOffice}
-                </p>
+            {site.registeredOffice && (
+              <div className="flex items-start gap-4 rounded-2xl border border-hairline bg-surface p-7">
+                <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-teal-dim text-teal">
+                  <MapPinIcon className="h-5 w-5" />
+                </span>
+                <div>
+                  <h2 className="font-display text-base font-bold text-navy">
+                    Registered Office
+                  </h2>
+                  <p className="mt-2 text-sm leading-relaxed text-grey">
+                    {site.registeredOffice}
+                  </p>
+                </div>
               </div>
-            </div>
+            )}
 
             <div className="flex items-start gap-4 rounded-2xl border border-hairline bg-surface p-7">
               <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-teal-dim text-teal">

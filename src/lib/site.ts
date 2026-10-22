@@ -1,12 +1,13 @@
 export const site = {
   brandName: "Vindus Holdings  Fin-Invest",
   legalName: "Vindus Holdings  FIN-INVEST PRIVATE LIMITED",
-  registeredOffice:
-    "10th Floor, Poddar Point, Block-A, 113, Park Street, Kolkata – 700016",
+  registeredOffice: "", // Leave empty to hide the registered office address.
+  // Previous address:
+  //   "10th Floor, Poddar Point, Block-A, 113, Park Street, Kolkata – 700016",
   gstin: "19AABCV8178N2ZE",
-  rbiRegistrationNumber: "B-05.05626 dated 17 Oct 2003",
+  rbiRegistrationNumber: "B.05.06969 dated 17 Oct 2003",
   rbiRegistration:
-    "RBI Registration No. B-05.05626 dated 17 Oct 2003, issued under Section 45-IA of the RBI Act, 1934",
+    "RBI Registration No. B.05.06969 dated 17 Oct 2003, issued under Section 45-IA of the RBI Act, 1934",
   grievanceEmail: "grievance@vindusholdingsfininvest.com",
   supportEmail: "support@vindusholdingsfininvest.com",
   supportPhone: "+91 9958940148",

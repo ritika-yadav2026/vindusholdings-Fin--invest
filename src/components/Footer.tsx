@@ -21,9 +21,11 @@ export function Footer() {
                 {site.legalName}
               </p>
             </div>
-            <p className="mt-4 max-w-sm text-sm leading-relaxed text-white/70">
-              Registered Office: {site.registeredOffice}
-            </p>
+            {site.registeredOffice && (
+              <p className="mt-4 max-w-sm text-sm leading-relaxed text-white/70">
+                Registered Office: {site.registeredOffice}
+              </p>
+            )}
             <p className="mt-3 text-sm text-white/70">GSTIN: {site.gstin}</p>
             <p className="mt-3 max-w-sm text-sm leading-relaxed text-white/70">
               {site.rbiRegistration}

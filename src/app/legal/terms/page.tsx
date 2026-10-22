@@ -261,8 +261,12 @@ export default function TermsPage() {
               <p>
                 {site.legalName}
                 <br />
-                Registered Office: {site.registeredOffice}
-                <br />
+                {site.registeredOffice && (
+                  <>
+                    Registered Office: {site.registeredOffice}
+                    <br />
+                  </>
+                )}
                 General Inquiries:{" "}
                 <a href={`mailto:${site.supportEmail}`}>{site.supportEmail}</a>
               </p>
