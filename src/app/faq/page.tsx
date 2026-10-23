@@ -7,7 +7,7 @@ import { lspNames } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "FAQ",
-  description: `Answers to common questions about loans serviced through ${lspNames}, with Vindus Holdings  Fin-Invest as the RBI-registered lender of record.`,
+  description: `Answers to common questions about loans serviced through ${lspNames}, with Vindus Holdings Limited as the RBI-registered lender of record.`,
 };
 
 export default function FaqPage() {
@@ -16,7 +16,7 @@ export default function FaqPage() {
       <PageIntro
         eyebrow="FAQ"
         heading="Frequently Asked Questions"
-        lede={`Loan origination and servicing happens on our lending partners' platforms. Vindus Holdings  Fin-Invest is the RBI-registered lender of record.`}
+        lede={`Loan origination and servicing happens on our lending partners' platforms. Vindus Holdings Limited is the RBI-registered lender of record.`}
       />
 
       <section className="bg-background">

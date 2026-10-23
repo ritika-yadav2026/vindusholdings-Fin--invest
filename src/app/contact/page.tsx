@@ -7,7 +7,7 @@ import { site } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Contact Vindus Holdings  Fin-Invest at its Kolkata registered office, by email, or by phone for general inquiries.",
+    "Contact Vindus Holdings  Limited at its Kolkata registered office, by email, or by phone for general inquiries.",
 };
 
 export default function ContactPage() {
@@ -76,7 +76,7 @@ export default function ContactPage() {
 
           <div className="overflow-hidden rounded-2xl border border-hairline bg-surface">
             <iframe
-              title="Vindus Holdings  Fin-Invest registered office location"
+              title="Vindus Holdings  Limited registered office location"
               src="https://www.google.com/maps?q=10th+Floor,+Poddar+Point,+113+Park+Street,+Kolkata+700016&output=embed"
               className="h-full min-h-[420px] w-full"
               loading="lazy"

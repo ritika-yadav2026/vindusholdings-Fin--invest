@@ -7,7 +7,7 @@ import { site, lspNames } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Disclaimer",
   description:
-    "Disclaimer covering the informational nature of this website and the relationship between Vindus Holdings  Fin-Invest Private Limited and its lending partners.",
+    "Disclaimer covering the informational nature of this website and the relationship between Vindus Holdings Limited Private Limited and its lending partners.",
 };
 
 export default function DisclaimerPage() {

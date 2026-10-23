@@ -21,14 +21,14 @@ export function Header() {
         >
           <Image
             src="/VINDUS-Holdings-Logo.png"
-            alt="Vindus Holdings  Fin-Invest"
+            alt="Vindus Holdings Limited"
             width={87}
             height={40}
             className="h-11 w-auto shrink-0"
             priority
           />
           <span className="truncate font-display text-base font-bold tracking-tight text-navy">
-            Vindus Holdings  Fin-Invest
+            Vindus Holdings Limited
           </span>
         </Link>
 

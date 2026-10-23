@@ -24,10 +24,10 @@ export const metadata: Metadata = {
     apple: "/apple-icon.png?v=vindus-2",
   },
   title: {
-    default: "Vindus Holdings  Fin-Invest | RBI Registered NBFC",
-    template: "%s | Vindus Holdings  Fin-Invest",
+    default: "Vindus Holdings  Limited | RBI Registered NBFC",
+    template: "%s | Vindus Holdings  Limited",
   },
-  description: `Vindus Holdings  Fin-Invest is an RBI-registered NBFC lending through its digital lending partners, ${lspNames}.`,
+  description: `Vindus Holdings  Limited is an RBI-registered NBFC lending through its digital lending partners, ${lspNames}.`,
 };
 
 export default function RootLayout({

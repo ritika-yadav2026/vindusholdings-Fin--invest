@@ -1,6 +1,6 @@
 export const site = {
-  brandName: "Vindus Holdings  Fin-Invest",
-  legalName: "Vindus Holdings  FIN-INVEST PRIVATE LIMITED",
+  brandName: "Vindus Holdings  Limited",
+  legalName: "Vindus Holdings Limited",
   registeredOffice: "", // Leave empty to hide the registered office address.
   // Previous address:
   //   "10th Floor, Poddar Point, Block-A, 113, Park Street, Kolkata – 700016",
@@ -8,15 +8,15 @@ export const site = {
   rbiRegistrationNumber: "B.05.06969 dated 17 Oct 2003",
   rbiRegistration:
     "RBI Registration No. B.05.06969 dated 17 Oct 2003, issued under Section 45-IA of the RBI Act, 1934",
-  grievanceEmail: "grievance@vindusholdingsfininvest.com",
-  supportEmail: "support@vindusholdingsfininvest.com",
+  grievanceEmail: "grievance@vindusholdingslimited.com",
+  supportEmail: "support@vindusholdingslimited.com",
   supportPhone: "+91 9958940148",
   rbiCmsUrl: "https://cms.rbi.org.in",
   sachetUrl: "https://sachet.rbi.org.in",
   gro: {
     name: "Sumit Rajan",
     designation: "Grievance Redressal Officer",
-    email: "grievance@vindusholdingsfininvest.com",
+    email: "grievance@vindusholdingslimited.com",
     phone: "7665466546",
   },
   lsps: [
