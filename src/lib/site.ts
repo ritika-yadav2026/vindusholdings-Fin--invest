@@ -5,9 +5,9 @@ export const site = {
   // Previous address:
   //   "10th Floor, Poddar Point, Block-A, 113, Park Street, Kolkata – 700016",
   gstin: "19AABCV8178N2ZE",
-  rbiRegistrationNumber: "B.05.06969 dated 17 Oct 2003",
+  rbiRegistrationNumber: "B.05.06969 dated 24 Apr 1998",
   rbiRegistration:
-    "RBI Registration No. B.05.06969 dated 17 Oct 2003, issued under Section 45-IA of the RBI Act, 1934",
+    "RBI Registration No. B.05.06969 dated 24 Apr 1998, issued under Section 45-IA of the RBI Act, 1934",
   grievanceEmail: "grievance@vindusholdingslimited.com",
   supportEmail: "support@vindusholdingslimited.com",
   supportPhone: "+91 9958940148",
